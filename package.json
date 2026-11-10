@@ -18,7 +18,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@wordpress/url": "^5.0.0",
+    "@wordpress/url": "^5.1.0",
     "chalk": "^6.0.1",
     "cli-table3": "^0.6.5",
     "commander": "^15.0.0",
